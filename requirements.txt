@@ -7,3 +7,5 @@ fastapi
 uvicorn
 groq
 openai
+pypdf
+lancedb
